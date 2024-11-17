@@ -36,5 +36,10 @@ To fix the whole tool to the xTool base plate 1 or up to 3 M4 x 10-12 mm.
 <img src="ViewCapture20241102_195503.png" width="220"> 
 <img src="ViewCapture20241102_195156.png" width="220">
 <img src="ViewCapture20241103_091318.png" width="220">
+<img src="IMG_20241117_144213.jpg" width="220">
+<img src="IMG_20241117_144228.jpg" width="220">
+<img src="IMG_20241117_144310.jpg" width="220">
+<img src="IMG_20241117_144411.jpg" width="220">
+<img src="IMG_20241117_144506.jpg" width="220">
 </p>  
 
